@@ -40,6 +40,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# reference / scratch directories
+/_ref-*
+
 # database
 /data
 *.db
